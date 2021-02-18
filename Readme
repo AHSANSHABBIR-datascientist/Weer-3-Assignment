@@ -1,6 +1,6 @@
 # courseraGettingAndCleaning
 
-Thes repo presents the solution of Yves Langeraert answering the exercise covering getting and cleaning data - Data Science track on Coursera.
+Thes repo presents  answer to the exercise covering getting and cleaning data - Data Science track on Coursera.
 
 When the Human Activity Recognition Using Smartphones Dataset was downloaded, this has been unzipped into ../getdata-projectfiles-UCI HAR Dataset_2
 The R file should thus be pasted into this folder. It will automatically go through the relevant folders to find its necessary resources.
